@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Feb 28 09:21:23 2020
-
-@author: Sutanmudo
-"""
 # Importing necessary functions 
 from keras.preprocessing.image import ImageDataGenerator,img_to_array,load_img 
 import glob  
